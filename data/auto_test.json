@@ -1,0 +1,22 @@
+{
+	"dams":{
+		"mgr":{
+			"root_url":"",
+			"logon":{
+				"method":"post",
+				"url":"",
+				"random_img_url":"",
+				"param":{
+					"param1":"intranet",
+					"entity.userID":"",
+					"entity.password":"",
+					"randNumInput":""
+				}
+			},
+			"headers":{
+				"Referer":"",
+				"User-Agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
+			}
+		}
+	}
+}
